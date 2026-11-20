@@ -1,4 +1,4 @@
-
+       
 Feature: Ver termometro de impuestos - HU07
 
   Scenario: Mostrar impuesto acumulado
